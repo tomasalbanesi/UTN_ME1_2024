@@ -3,7 +3,7 @@
 ## Medidas Electrónicas I
 
 # Guia de Ejercicios - 2024
-## Trabajo Práctico N°1 - Presentacion de ejercicios
+## Trabajo Práctico N°1 - Incertidumbre - Presentacion de ejercicios
 ### Tomas A. Albanesi
 
 ### Ejercicio N°1:
